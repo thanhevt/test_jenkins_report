@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file=".py" name="TestCalc-20190328215638" skipped="0" tests="1" time="0.007" timestamp="2019-03-28T21:56:38">
+	<testcase classname="TestCalc" file="testCalculator.py" line="11" name="testAdd" time="0.007" timestamp="2019-03-28T21:56:38">
+		<system-out>
+<![CDATA[it is a test
+]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>
